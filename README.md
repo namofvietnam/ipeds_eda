@@ -6,4 +6,4 @@ IPEDS data can be fetched from https://educationdata.urban.org/documentation/col
 Another source for more updated IPEDS data is IPEDS data center. Users would need to download csv or Access files from this source. https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1
 
 # Related articles:
-This repository supports the data visualizations in this article on Medium by the author: _How Mean is The Mean! Beware of the Misleading Mean for Data Analysts_ (https://namofvietnam.medium.com/how-mean-is-the-mean-avoid-the-misleading-mean-for-data-analysts-9f1722d7f18f)
+This repository supports the data visualizations in this article on Medium by the author: _How Mean is The Mean! Beware of the Misleading Mean for Data Analysts_ (https://medium.com/@namofvietnam/beware-the-misleading-mean-for-data-analysts-9f1722d7f18f)
